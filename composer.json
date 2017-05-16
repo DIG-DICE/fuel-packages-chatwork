@@ -1,5 +1,5 @@
 {
-	"name": "mp-php/fuel-packages-chatwork",
+	"name": "dig-dice/fuel-packages-chatwork",
 	"type": "fuel-package",
 	"require": {
 		"composer/installers": "*"

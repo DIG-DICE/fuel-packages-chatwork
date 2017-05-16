@@ -16,7 +16,7 @@ class Chatwork
 	 *
 	 * @var string
 	 */
-	public static $endpoint = 'https://api.chatwork.com/v1';
+	public static $endpoint = 'https://api.chatwork.com/v2';
 
 	/**
 	 * Initialize
